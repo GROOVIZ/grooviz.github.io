@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   What can you do with 256 lines of Flutter? A lot!
   On 256linesofflutter.com I'll show you what you can do!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: grooviz.github.io
 twitter_username: thierrydd
 github_username:  grooviz
 
